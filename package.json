@@ -1,5 +1,5 @@
 {
-	"name": "ph-ack",
+	"name": "@glander/ph-ack",
 	"version": "1.0.0",
 	"description": "Ph! Ack! is a really small package to debug process memory via Node.js.",
 	"main": "dist/index.js",

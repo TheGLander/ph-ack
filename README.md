@@ -4,16 +4,18 @@ Ph! Ack! (written as ph-ack, PhAck, PH ACK, or any other way which highlights th
 
 ## Installation
 
+Unfortunately, due to NPM's "typosquatting" prevention rules, `ph-ack` currently cannot be published as an NPM package, so it at `@glander/ph-ack`.
+
 Just install it like any package, like
 
 ```sh
-npm i ph-ack
+npm i @glander/ph-ack
 ```
 
 or
 
 ```sh
-yarn install ph-ack
+yarn install @glander/ph-ack
 ```
 
 Typescript declarations are bundled.
